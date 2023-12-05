@@ -1,3 +1,4 @@
 mesa,mueble,nuevo-mediano,25bs
 silla,mueble,de madera,70bs
+colgate,producto de limpieza,pasta dental,15bs
 
