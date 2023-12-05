@@ -1,0 +1,3 @@
+mesa,mueble,nuevo-mediano,25bs
+silla,mueble,de madera,70bs
+
